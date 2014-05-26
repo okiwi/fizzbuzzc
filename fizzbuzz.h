@@ -1,0 +1,2 @@
+
+char* repond(int question);
